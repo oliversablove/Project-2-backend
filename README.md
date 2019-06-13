@@ -26,7 +26,7 @@ Technologies Used:
 6. Ruby
 7. Ruby on Rails
 
-Link to Project Wireframe:
+Link to Project Entity-Relationship Diagram:
 https://imgur.com/xCrEAC9
 
 User Stories:
